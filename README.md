@@ -1,2 +1,2 @@
 # Tutorial
-Wery usefull project
+Very usefull project
